@@ -1,6 +1,6 @@
 import React from 'react'
 import './styles.css'
-
+import {TodoApp} from './Projects/Todo/TodoApp';
 export default function App() {
   return (
     <div className="container">
@@ -23,7 +23,7 @@ export default function App() {
             <h3>To-Do React</h3>
             <p>Filtrage, persistance localStorage, composants réutilisables.</p>
             <div className="card-links">
-              <a href="/src/Projects/TodoApp.jsx" target="_blank" rel="noreferrer">Live</a>
+              <TodoApp />
               <a href="#" target="_blank" rel="noreferrer">Code</a>
             </div>
           </li>
