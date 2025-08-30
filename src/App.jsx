@@ -22,8 +22,9 @@ export default function App() {
           <li className="card">
             <h3>To-Do React</h3>
             <p>Filtrage, persistance localStorage, composants réutilisables.</p>
+            <TodoApp />
             <div className="card-links">
-              <TodoApp />
+              
             </div>
           </li>
           <li className="card">
