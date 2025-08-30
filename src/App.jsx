@@ -17,7 +17,6 @@ export default function App() {
       </header>
 
       <section>
-        <a href="/mariage.jpeg" target='blank' rel='noreferrer'>Click and get your gift</a>
         <h2>Projets</h2>
         <ul className="cards">
           <li className="card">
