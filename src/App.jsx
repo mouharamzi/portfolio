@@ -8,7 +8,7 @@ export default function App() {
         <h1>Ramzi Mouha</h1>
         <p>Front-End Developer (React/JavaScript) • Côte d’Azur – France</p>
         <div className="links">
-          <a href="#" target="_blank" rel="noreferrer">GitHub</a>
+          <a href="https://github.com/mouharamzi" target="_blank" rel="noreferrer">GitHub</a>
           <a href="#" target="_blank" rel="noreferrer">LinkedIn</a>
           <a href="#" target="_blank" rel="noreferrer">Télécharger mon CV</a>
         </div>
