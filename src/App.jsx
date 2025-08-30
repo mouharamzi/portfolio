@@ -10,7 +10,9 @@ export default function App() {
         <div className="links">
           <a href="https://github.com/mouharamzi" target="_blank" rel="noreferrer">GitHub</a>
           <a href="#" target="_blank" rel="noreferrer">LinkedIn</a>
-          <a href="#" target="_blank" rel="noreferrer">Télécharger mon CV</a>
+          <a href="/CV_Ramzi_Mouha_Frontend.pdf" target="_blank" rel="noreferrer">
+  Télécharger mon CV
+</a>
         </div>
       </header>
 
