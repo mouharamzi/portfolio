@@ -23,7 +23,7 @@ export default function App() {
             <h3>To-Do React</h3>
             <p>Filtrage, persistance localStorage, composants réutilisables.</p>
             <div className="card-links">
-              <a href="#" target="_blank" rel="noreferrer">Live</a>
+              <a href="/src/Projects/Todo.jsx" target="_blank" rel="noreferrer">Live</a>
               <a href="#" target="_blank" rel="noreferrer">Code</a>
             </div>
           </li>
