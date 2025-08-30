@@ -1,6 +1,6 @@
 import React from 'react'
 import './styles.css'
-import {TodoApp} from './Projects/Todo/TodoApp';
+import TodoApp from './Projects/Todo/TodoApp';
 export default function App() {
   return (
     <div className="container">
