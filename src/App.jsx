@@ -24,7 +24,6 @@ export default function App() {
             <p>Filtrage, persistance localStorage, composants réutilisables.</p>
             <div className="card-links">
               <TodoApp />
-              <a href="#" target="_blank" rel="noreferrer">Code</a>
             </div>
           </li>
           <li className="card">
